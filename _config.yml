@@ -1,0 +1,28 @@
+name: jesseconnr
+favicon: null
+layout_spectrum: 0.20625490881502628
+typography_spectrum: 0.9988167132250965
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3092409672681242
+  lightness: 0.9226913570892066
+  saturation: 0.2857590315397829
+  rhythmicContrast: 0.7915592733770609
+purpose: []
