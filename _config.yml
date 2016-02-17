@@ -2,12 +2,13 @@ name: jesseconnr
 favicon: null
 layout_spectrum: 0.20625490881502628
 typography_spectrum: 0.9988167132250965
+title: Jesse Connor
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-73889121-1
   facebook: null
   twitter: null
 opengraph:
