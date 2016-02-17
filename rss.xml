@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Jesse Connor]]></title>
         <description><![CDATA[Jesse Connor]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://jesseconnr.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 00:11:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 00:29:13 GMT</lastBuildDate>
+        <atom:link href="http://jesseconnr.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eca2e91c-fe32-4102-8c27-8d40dfefd3ee.jpg">]]></description>
-            <link>undefinedaf040595-6973-4d39-b149-29b3dfc755db/index.html</link>
+            <title><![CDATA[Post Title]]></title>
+            <description><![CDATA[<article><h1>Post Title</h1><p>First post to let thegrid.io do it's thing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ab24a30a4a649e724080fec4e57de84b18e95fe.jpg"></article>]]></description>
+            <link>http://jesseconnr.com/af040595-6973-4d39-b149-29b3dfc755db/index.html</link>
             <guid isPermaLink="false">af040595-6973-4d39-b149-29b3dfc755db</guid>
-            <pubDate>Wed, 17 Feb 2016 00:10:50 GMT</pubDate>
+            <pubDate>Wed, 17 Feb 2016 00:21:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
